@@ -1,5 +1,4 @@
 function [ T ] = Kruskals( G, C )
-%Testing this GitHub Thing
 %Input: Node-Node Adjacency Matric, cost matrix C where if G(i,j) = 0, then
 %C(i,j) = inf. 
 %Output: T is a node-node adjacency matrix representing the
